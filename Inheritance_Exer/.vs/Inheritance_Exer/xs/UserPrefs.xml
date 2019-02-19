@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F055E5F4-3585-417A-9308-9B0A0FDB2AE9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inheritance_Exer/Bird.cs">
+    <Files>
+      <File FileName="Inheritance_Exer/Program.cs" Line="9" Column="32" />
+      <File FileName="Inheritance_Exer/Animal.cs" Line="11" Column="58" />
+      <File FileName="Inheritance_Exer/Bird.cs" Line="6" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Inheritance__Exer FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

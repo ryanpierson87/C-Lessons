@@ -1,0 +1,31 @@
+﻿            Random rnd = new Random();
+            int secretNumber = rnd.Next(1, 11);
+            int numberGuessed = 0;
+
+            do
+            {
+                Console.WriteLine("Enter a number between 1 and 10 : ");
+                numberGuessed = Convert.ToInt32(Console.ReadLine());
+            } while (secretNumber != numberGuessed);
+
+
+            // Other Convert options: ToBoolean, ToByte,
+            // ToChar, ToDecimal, ToDouble, ToInt64,
+            // ToString, and they can convert from 
+            // any type to any other type
+
+            // -------------------------
+
+            //int i = 1;
+
+            //while(i <= 10)
+            //{
+            //if(i % 2 != 0)
+            //{
+            //    Console.WriteLine(i);
+            //    i++;
+            //} else
+            //{
+            //    i++;
+            //}
+            //if (i == 9) break;

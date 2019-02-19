@@ -1,0 +1,6 @@
+/Users/ryanpierson/Projects/TreeHouse/TreeHouse/bin/Debug/TreeHouse.exe
+/Users/ryanpierson/Projects/TreeHouse/TreeHouse/bin/Debug/TreeHouse.pdb
+/Users/ryanpierson/Projects/TreeHouse/TreeHouse/obj/x86/Debug/TreeHouse.csprojAssemblyReference.cache
+/Users/ryanpierson/Projects/TreeHouse/TreeHouse/obj/x86/Debug/TreeHouse.csproj.CoreCompileInputs.cache
+/Users/ryanpierson/Projects/TreeHouse/TreeHouse/obj/x86/Debug/TreeHouse.exe
+/Users/ryanpierson/Projects/TreeHouse/TreeHouse/obj/x86/Debug/TreeHouse.pdb

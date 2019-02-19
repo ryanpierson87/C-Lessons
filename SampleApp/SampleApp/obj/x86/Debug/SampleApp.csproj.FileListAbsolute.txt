@@ -1,0 +1,6 @@
+/Users/ryanpierson/Projects/SampleApp/SampleApp/bin/Debug/SampleApp.exe
+/Users/ryanpierson/Projects/SampleApp/SampleApp/bin/Debug/SampleApp.pdb
+/Users/ryanpierson/Projects/SampleApp/SampleApp/obj/x86/Debug/SampleApp.csprojAssemblyReference.cache
+/Users/ryanpierson/Projects/SampleApp/SampleApp/obj/x86/Debug/SampleApp.csproj.CoreCompileInputs.cache
+/Users/ryanpierson/Projects/SampleApp/SampleApp/obj/x86/Debug/SampleApp.exe
+/Users/ryanpierson/Projects/SampleApp/SampleApp/obj/x86/Debug/SampleApp.pdb

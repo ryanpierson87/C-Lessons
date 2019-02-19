@@ -1,0 +1,16 @@
+﻿Bob attacks Maximus and Deals 74 Damage, 
+Maximus Has 69 Health
+
+Maximus Attacks Bob and deals 6 Damage 
+Bob has 6 Health
+
+Bob attacks Maximus and Deals 48 Damage
+Maximus has 21 Health
+
+Maximus attacks Bob and Deals 48 Damage
+Bob Has -42 Health
+
+Bob has Died and Maximus is Victorious
+
+Game Over
+

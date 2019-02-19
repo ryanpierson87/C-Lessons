@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2C108785-F148-4BA0-A0F8-418ECE0C257B}|Default">
+  <MonoDevelop.Ide.ItemProperties.TreeHouse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TreeHouse/Program.cs">
+    <Files>
+      <File FileName="TreeHouse/Program.cs" Line="12" Column="2" />
+      <File FileName="TreeHouse/Helper/InputHandler.cs" Line="6" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
